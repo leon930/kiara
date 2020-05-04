@@ -1,0 +1,25 @@
+{
+  "name": "gamesword",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "dependencies": {
+    "discord.js": "^11.6.2",
+    "fs": "0.0.1-security",
+    "fs.js": "0.0.1",
+    "git": "^0.1.5",
+    "jimp": "^0.9.6",
+    "moment": "^2.24.0",
+    "prism-media": "^1.2.1",
+    "simple-youtube-api": "^5.2.1",
+    "ytdl-core-discord": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
